@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-5s7pji.fixwin.space/sitemap.xml
